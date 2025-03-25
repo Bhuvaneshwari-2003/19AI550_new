@@ -1,6 +1,6 @@
 # Ex.No: 4  Create a player Movement Script in unity 
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER :212221240010
 ### AIM: 
 To write a program to create a player movement in unity.
 ### Algorithm:
@@ -43,12 +43,13 @@ public class Player_movement : MonoBehaviour
 ```
 ### Output:
 
+![image](https://github.com/user-attachments/assets/c6a845ff-602d-46c3-90cb-e46feebf5494)
 
+![image](https://github.com/user-attachments/assets/1ea9886a-e746-48b5-a156-b59db761666f)
 
+![image](https://github.com/user-attachments/assets/b4d7e0d9-530a-4600-a9fe-05ca0fb4cd3a)
 
-
-
-
+![image](https://github.com/user-attachments/assets/1ca006cb-1478-464e-8df7-5d20febd87d7)
 
 
 ### Result:

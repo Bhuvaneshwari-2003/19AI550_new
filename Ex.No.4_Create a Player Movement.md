@@ -1,4 +1,4 @@
-# Ex.No: 4  Create a player Movement Script in unity 
+# Ex.No: 5 Create a player Movement Script in unity 
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212222240110
 ### AIM: 
